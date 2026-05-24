@@ -1,0 +1,5 @@
+Price_Tier,n_Reviews_total,n_Reviews_test,Positive_Rate,Accuracy,F1_Score,ROC_AUC
+Budget (<$200),12841,2568,0.481,0.693,0.621,0.741
+Mid-range ($200-500),17923,3585,0.524,0.719,0.659,0.774
+Premium ($500-900),11204,2241,0.561,0.738,0.681,0.797
+Flagship (>$900),5532,1107,0.618,0.762,0.714,0.821

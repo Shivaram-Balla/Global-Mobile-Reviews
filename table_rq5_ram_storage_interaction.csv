@@ -1,0 +1,10 @@
+RAM_Bin,Storage_Bin,n_Reviews,Positive_Rate,F1_Score
+Low (<=4 GB),Small (<=64 GB),8934,0.471,0.614
+Low (<=4 GB),Medium (128 GB),4821,0.499,0.638
+Low (<=4 GB),Large (>=256 GB),1203,0.521,0.657
+Mid (6-8 GB),Small (<=64 GB),3412,0.503,0.641
+Mid (6-8 GB),Medium (128 GB),9823,0.531,0.664
+Mid (6-8 GB),Large (>=256 GB),5641,0.558,0.689
+High (>=12 GB),Small (<=64 GB),892,0.489,0.628
+High (>=12 GB),Medium (128 GB),4312,0.561,0.693
+High (>=12 GB),Large (>=256 GB),8462,0.603,0.728

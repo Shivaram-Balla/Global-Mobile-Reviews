@@ -1,0 +1,11 @@
+feature,gain_importance,gain_rank,permutation_importance_mean,permutation_importance_std,permutation_rank,rank_delta,category
+rating,0.09812,1,0.02341,0.00187,1,0,Rating
+log_review_length,0.07124,2,0.01892,0.00163,2,0,Review
+log_price,0.06583,3,0.01423,0.00138,3,0,Price
+ram_gb,0.05841,4,0.00981,0.00112,5,1,Memory
+battery_mah,0.05320,5,0.01012,0.00119,4,1,Hardware
+brand_apple,0.05114,6,0.00834,0.00102,7,1,Brand
+camera_mp,0.04982,7,0.00871,0.00108,6,1,Hardware
+storage_gb,0.04731,8,0.00712,0.00094,9,1,Memory
+is_flagship,0.04589,9,0.00743,0.00098,8,1,Price
+review_year,0.04213,10,0.00624,0.00087,10,0,Timing
